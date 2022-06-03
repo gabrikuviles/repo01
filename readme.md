@@ -14,4 +14,5 @@ En este paso, desde github he creado un repositorio y lo he vinculado con el rep
 
 
 ## último paso
-Por último mediante el comando git push, envié mi archivo hacia la nube y comprobé que se encontraba allí.
+Por último mediante el comando git push, envié mi archivo hacia la nube y comprobé que se encontraba allí.  
+Ya está terminado 😄
